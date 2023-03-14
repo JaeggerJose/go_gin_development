@@ -13,3 +13,7 @@
 #### 2. GET
 
 #### 3. DELETE
+
+
+## Reference
+1. [Building REST API with Gin](https://medium.com/@wattanai.tha/go-tutorial-series-ep-1-building-rest-api-with-gin-7c17c7ab1d5b)
